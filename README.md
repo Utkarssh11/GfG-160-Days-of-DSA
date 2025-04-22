@@ -30,9 +30,6 @@ Here’s how I plan to structure my learning:
 
 I will push my daily solutions here, and if I complete more than one problem on a given day, I will include all solutions for that day.
 
-## Problem Solving Progress
-This section lists the problems I have solved so far, along with the corresponding topics and dates.
-
 ## Technologies Used
 - **Languages**: Java
 - **Algorithms**: DSA problems involving Arrays, Strings, Sorting, Searching, Graphs, Trees, and more.
